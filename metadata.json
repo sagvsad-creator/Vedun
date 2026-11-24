@@ -1,0 +1,8 @@
+{
+  "name": "Vedun: Likholesye",
+  "description": "Dark Slavic 3D Action RPG in the spirit of The Witcher 3 with fast blade-and-sign combat, Witcher senses, and an open-ended world.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

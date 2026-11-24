@@ -1,0 +1,7 @@
+[
+  { "t": 0.4, "key": "KeyW", "hold": 1.1 },
+  { "t": 1.6, "key": "ShiftLeft", "hold": 0.15 },
+  { "t": 1.9, "key": "KeyD", "hold": 1.1 },
+  { "t": 2.6, "key": "KeyT", "hold": 0.1 },
+  { "t": 3.5, "key": "KeyT", "hold": 0.1 }
+]

@@ -1,0 +1,130 @@
+{
+  "title": "Вырезано по чернёному дереву",
+  "text": "Правило: резной славянский гравюрный реализм — каждая форма читается жёстким контуром и фактурой дерева/камня в косом лунном свете. Настроение: тревожная сказка и древняя былина. Форма: рубленые идолы, руны, тяжёлые меха. Цвет: деготь, кость, мох; акцент — холодное золото.",
+  "palette": [
+    "#141210",
+    "#2b2a26",
+    "#465442",
+    "#b8b09c",
+    "#e0b04b"
+  ],
+  "tags": [
+    "3D",
+    "стиль из гравюры",
+    "славянские идолы"
+  ],
+  "items": [
+    {
+      "file": "steam-89cfe1fb.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1138660/ss_a3e13ed29db0551d6d1b35fe0fedfcbc101373a3.1920x1080.jpg?t=1793820790",
+      "page": "https://store.steampowered.com/app/1138660/",
+      "title": "Black Book — screenshot 1",
+      "credit": "Morteshka",
+      "license": "© Morteshka — moodboard only",
+      "api": "steam",
+      "query": "Black Book",
+      "generated": false,
+      "note": "Ритуальный круг со свечами и силуэты елей на фоне холодной луны",
+      "w": 1920,
+      "h": 1080,
+      "sha1": "89cfe1fbf4b5ca4d96db1a281872d27eeaa62465"
+    },
+    {
+      "file": "steam-aeb1037a.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1138660/ss_8bc6a5f3c8f3cfc6e93776f885a7e99cee251c65.1920x1080.jpg?t=1793820790",
+      "page": "https://store.steampowered.com/app/1138660/",
+      "title": "Black Book — screenshot 2",
+      "credit": "Morteshka",
+      "license": "© Morteshka — moodboard only",
+      "api": "steam",
+      "query": "Black Book",
+      "generated": false,
+      "note": "Славянский хоровод у костра: тёплое ядро света против синих сумерек",
+      "w": 1920,
+      "h": 1080,
+      "sha1": "aeb1037a85ca59f5df8d449b4571f157ec05b2e5"
+    },
+    {
+      "file": "steam-31d6da71.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1138660/ss_f9d547ebd3b5705c16f7f59b2b33b2f938d2ba80.1920x1080.jpg?t=1793820790",
+      "page": "https://store.steampowered.com/app/1138660/",
+      "title": "Black Book — screenshot 3",
+      "credit": "Morteshka",
+      "license": "© Morteshka — moodboard only",
+      "api": "steam",
+      "query": "Black Book",
+      "generated": false,
+      "note": "Угловатая гравюрная геометрия и пламя среди свечей в темноте",
+      "w": 1920,
+      "h": 1080,
+      "sha1": "31d6da7188165975122013f993c60a604e5d7f58"
+    },
+    {
+      "file": "steam-69c4eb6a.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623940/ss_5f7e80cd42199d60c1b1fdb3d67a39a1e76d5b4c.1920x1080.jpg?t=1787164429",
+      "page": "https://store.steampowered.com/app/1623940/",
+      "title": "Bramble: The Mountain King — screenshot 1",
+      "credit": "Dimfrost Studio",
+      "license": "© Dimfrost Studio — moodboard only",
+      "api": "steam",
+      "query": "Bramble: The Mountain King",
+      "generated": false,
+      "note": "Отражения в тихой воде и фигура нечисти в прибрежном камыше",
+      "w": 1920,
+      "h": 1080,
+      "sha1": "69c4eb6a06238453c9d0a03bcdc2e42037da8089"
+    },
+    {
+      "file": "steam-251b1d61.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623940/ss_b22e285d4e478ed12633610b8e9caeb28c8d1a07.1920x1080.jpg?t=1787164429",
+      "page": "https://store.steampowered.com/app/1623940/",
+      "title": "Bramble: The Mountain King — screenshot 2",
+      "credit": "Dimfrost Studio",
+      "license": "© Dimfrost Studio — moodboard only",
+      "api": "steam",
+      "query": "Bramble: The Mountain King",
+      "generated": false,
+      "note": "Гать над топью, светящиеся глаза в осоке — саспенс без лишнего света",
+      "w": 1536,
+      "h": 864,
+      "sha1": "251b1d61070be849de7f10f5dae48165ecfad58e"
+    },
+    {
+      "file": "steam-e067e775.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623940/ss_b8b6546a5038ce007f0e8400ce6a49469cf898c0.1920x1080.jpg?t=1787164429",
+      "page": "https://store.steampowered.com/app/1623940/",
+      "title": "Bramble: The Mountain King — screenshot 3",
+      "credit": "Dimfrost Studio",
+      "license": "© Dimfrost Studio — moodboard only",
+      "api": "steam",
+      "query": "Bramble: The Mountain King",
+      "generated": false,
+      "note": "Холодный лунный свет на мшистой рубленой кладке руин",
+      "w": 1536,
+      "h": 864,
+      "sha1": "e067e775c45cf34c6e3286ea8f453eda474b3522"
+    },
+    {
+      "file": "wikimedia-44809b79.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/O98_Idol_von_Sbrutsch_mit_Darstellung_von_Unterwelt%2C_Erde_und_des_Himmels%2C_zirka_10._Jh._n._Chr..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:O98_Idol_von_Sbrutsch_mit_Darstellung_von_Unterwelt,_Erde_und_des_Himmels,_zirka_10._Jh._n._Chr..JPG",
+      "title": "O98 Idol von Sbrutsch mit Darstellung von Unterwelt, Erde und des Himmels, zirka 10. Jh. n. Chr.",
+      "credit": "Silar",
+      "license": "CC BY-SA 3.0",
+      "api": "wikimedia",
+      "query": "Zbruch Idol",
+      "generated": false,
+      "note": "Збручский идол: резьба и четырёхгранный силуэт славянского капища",
+      "w": 800,
+      "h": 1208,
+      "sha1": "44809b79362d349b3980bc5bd542fc0e43542adb"
+    }
+  ],
+  "pros": [
+    "уникальный славянский почерк",
+    "процедурные карты резьбы очень лёгкие"
+  ],
+  "cons": [
+    "сложнее добиться мягкого фотореализма"
+  ]
+}

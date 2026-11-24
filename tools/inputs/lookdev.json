@@ -1,0 +1,11 @@
+[
+  { "t": 0.2, "eval": "window.__GAME__?.setPreset('dawn_hub')" },
+  { "t": 1.2, "eval": "window.__GAME__?.setPreset('dusk_combat')" },
+  { "t": 2.4, "eval": "window.__GAME__?.setPreset('night_barrow')" },
+  { "t": 3.6, "eval": "window.__GAME__?.setPreset('follow')" },
+  { "t": 3.8, "keydown": "KeyW" },
+  { "t": 4.4, "key": "ShiftLeft", "hold": 0.14 },
+  { "t": 6.5, "keyup": "KeyW" },
+  { "t": 6.6, "keydown": "KeyD" },
+  { "t": 7.6, "keyup": "KeyD" }
+]

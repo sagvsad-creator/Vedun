@@ -1,0 +1,56 @@
+{
+  "title": "Вариант В · Глухая ночь Нави и серебро",
+  "text": "Холодный лунный свет над затопленным курганом, алые руны проклятия на камне, светящийся серебряный клинок и глаза стаи упырей в камышах.",
+  "palette": [
+    "#0b1118",
+    "#1d2b36",
+    "#364852",
+    "#9ab0bc",
+    "#c9343a"
+  ],
+  "tags": [
+    "Раунд 2",
+    "Ночь Нави",
+    "Курган",
+    "Упыри"
+  ],
+  "items": [
+    {
+      "file": "gen-f81cc2a1.jpg",
+      "url": "",
+      "page": "",
+      "title": "velen_concept_night_nav_1795394819345",
+      "credit": "image generation",
+      "license": "generated for the project",
+      "api": "generated",
+      "query": "",
+      "generated": true,
+      "note": "Концепт ночи Нави: серебро, алые руны кургана и стая упырей в камышах",
+      "w": 1376,
+      "h": 768,
+      "sha1": "f81cc2a1ef44ea17f004e6368af3009b550238cf",
+      "prompt": "Mid-far 3rd-person moonlit Slavic barrows with silver rune sword and ghouls"
+    },
+    {
+      "file": "local-928c896d.jpg",
+      "url": "",
+      "page": "",
+      "title": "steam-928c896d",
+      "credit": "",
+      "license": "",
+      "api": "local",
+      "query": "",
+      "generated": false,
+      "note": "Якорный референс: рунные мегалиты и читаемый силуэт руин",
+      "w": 1920,
+      "h": 1080,
+      "sha1": "928c896daba962c42adfdfdfb9fd242c17ee709f"
+    }
+  ],
+  "pros": [
+    "передаёт проклятие Нави и заставляет читать силуэты по рунам и глазам"
+  ],
+  "cons": [
+    "самый тёмный режим — нужен чёткий лунный контровой свет"
+  ]
+}

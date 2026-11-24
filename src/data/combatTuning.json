@@ -1,0 +1,30 @@
+{
+  "heroMaxHp": 120,
+  "lightCombo": [
+    { "damage": 18, "startup": 0.08, "active": 0.14, "recovery": 0.18, "reach": 2.55, "lunge": 4.2, "hitstop": 0.04, "trauma": 0.24 },
+    { "damage": 22, "startup": 0.07, "active": 0.14, "recovery": 0.19, "reach": 2.7, "lunge": 5.0, "hitstop": 0.048, "trauma": 0.30 },
+    { "damage": 34, "startup": 0.11, "active": 0.17, "recovery": 0.26, "reach": 2.95, "lunge": 6.4, "hitstop": 0.068, "trauma": 0.45 }
+  ],
+  "heavyCleave": {
+    "damage": 44,
+    "staminaCost": 22,
+    "startup": 0.22,
+    "active": 0.18,
+    "recovery": 0.32,
+    "reach": 3.1,
+    "lunge": 7.2,
+    "hitstop": 0.078,
+    "trauma": 0.62
+  },
+  "comboWindow": 0.52,
+  "steelVsHumanMult": 1.4,
+  "steelVsMonsterMult": 0.65,
+  "silverVsMonsterMult": 1.45,
+  "silverVsHumanMult": 0.72,
+  "oilBonusMult": 0.35,
+  "vulnerableBonusMult": 1.5,
+  "swallowHeal": 55,
+  "navMarkPerSign": 16,
+  "navMarkDecayPerSec": 1.8,
+  "navSignPowerPerPoint": 0.005
+}

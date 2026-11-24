@@ -1,0 +1,56 @@
+{
+  "title": "Вариант Б · Кровавые сумерки и пламя знака",
+  "text": "Низкий предгрозовой свет сквозь сосны, тёмно-синие тени леса против яркой вспышки огненного знака Сварога и силуэта Лешего среди резных идолов.",
+  "palette": [
+    "#11161c",
+    "#242c33",
+    "#463f38",
+    "#8f948e",
+    "#f28c28"
+  ],
+  "tags": [
+    "Раунд 2",
+    "Сумерки",
+    "Бой",
+    "Знаки"
+  ],
+  "items": [
+    {
+      "file": "gen-079c6c96.jpg",
+      "url": "",
+      "page": "",
+      "title": "velen_concept_dusk_combat_1795394819225",
+      "credit": "image generation",
+      "license": "generated for the project",
+      "api": "generated",
+      "query": "",
+      "generated": true,
+      "note": "Концепт боя: танец клинка и знака Сварога против Лешего, отражение искр в грязи",
+      "w": 1376,
+      "h": 768,
+      "sha1": "079c6c96e9e7897530b1baf173cad6551277b47c",
+      "prompt": "Mid-far 3rd-person Leshy combat with fire sign in Slavic pine forest"
+    },
+    {
+      "file": "local-48f9baef.jpg",
+      "url": "",
+      "page": "",
+      "title": "steam-48f9baef",
+      "credit": "",
+      "license": "",
+      "api": "local",
+      "query": "",
+      "generated": false,
+      "note": "Якорный референс: Леший, искры знака и лесной туман",
+      "w": 1920,
+      "h": 1080,
+      "sha1": "48f9baef614dc787330e98291a48c7da19702ae9"
+    }
+  ],
+  "pros": [
+    "максимальный кинематографичный контраст боя, огня и мокрой земли"
+  ],
+  "cons": [
+    "требует осторожного тона в тёмных углах"
+  ]
+}

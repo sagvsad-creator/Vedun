@@ -1,0 +1,20 @@
+{
+  "walkSpeed": 5.8,
+  "dashSpeed": 14.5,
+  "dashDuration": 0.24,
+  "dashCooldown": 0.52,
+  "dashCost": 24,
+  "jumpVelocity": 8.6,
+  "gravity": 22.5,
+  "coyoteTime": 0.11,
+  "jumpBuffer": 0.12,
+  "jumpCost": 10,
+  "maxStamina": 100,
+  "staminaRegen": 28,
+  "turnSpeed": 13.5,
+  "arenaRadius": 30,
+  "cameraDistance": 6.4,
+  "cameraHeight": 2.65,
+  "cameraTargetY": 1.35,
+  "cameraDamping": 8.5
+}

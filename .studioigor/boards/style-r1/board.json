@@ -1,0 +1,329 @@
+{
+  "title": "ВЕДУН: ЛИХОЛЕСЬЕ — Визуальный стиль (Раунд 1)",
+  "subtitle": "4 направления для тёмно-славянского 3D Action/RPG",
+  "question": "Какое направление берём за основу? Оцените кадры и выберите направление",
+  "mode": "single",
+  "options": [
+    {
+      "id": "velen-dusk",
+      "title": "Сырой сумрак Велена",
+      "text": "Правило: приземлённый реализм грязи, сосен и гнилого дерева; светятся только костры, знаки и глаза тварей. Настроение: холодная осенняя мгла против тёплого янтаря огня. Форма: кривые избы, тыны, узловатые дубы. Цвет: свинцово-зелёный, торф, сталь; акцент — янтарь.",
+      "palette": [
+        "#1b2421",
+        "#3a4a3f",
+        "#5b4a3a",
+        "#8a8f85",
+        "#d97b29"
+      ],
+      "tags": [
+        "3D",
+        "реализм",
+        "туман",
+        "близко к референсу"
+      ],
+      "pros": [
+        "мгновенно узнаётся как Witcher 3",
+        "туман и селективный bloom отлично работают в Three.js"
+      ],
+      "cons": [
+        "требует высокой детализации текстур грязи и листвы"
+      ],
+      "media": [
+        {
+          "src": "../../refs/velen-dusk/steam-b3dd8d11.jpg",
+          "caption": "Широкий обзор природы и читаемый силуэт двух клинков за спиной",
+          "source": "https://store.steampowered.com/app/292030/",
+          "credit": "CD PROJEKT RED",
+          "license": "© CD PROJEKT RED — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/velen-dusk/steam-48f9baef.jpg",
+          "caption": "Холодный сине-болотный туман против оранжевых искр знака и силуэта Лешего",
+          "source": "https://store.steampowered.com/app/292030/",
+          "credit": "CD PROJEKT RED",
+          "license": "© CD PROJEKT RED — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/velen-dusk/steam-0d4c5644.jpg",
+          "caption": "Фактура кожи, кольчуги, дерева и мягкий боковой свет без глянца",
+          "source": "https://store.steampowered.com/app/292030/",
+          "credit": "CD PROJEKT RED",
+          "license": "© CD PROJEKT RED — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/velen-dusk/steam-928c896d.jpg",
+          "caption": "Массивные рунные мегалиты как ориентир капища в холодной дымке",
+          "source": "https://store.steampowered.com/app/1466060/",
+          "credit": "Questline",
+          "license": "© Questline — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/velen-dusk/steam-380b5d66.jpg",
+          "caption": "Силуэт рогатой твари на фоне низкого контрового заката в поле",
+          "source": "https://store.steampowered.com/app/1466060/",
+          "credit": "Questline",
+          "license": "© Questline — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/velen-dusk/wikimedia-96b6f1c9.jpg",
+          "caption": "Слоистый туман между склонами и хвойным лесом для глубины",
+          "source": "https://commons.wikimedia.org/wiki/File:Misty_coniferous_forest_on_a_slope_(Unsplash).jpg",
+          "credit": "Jon Flobrant jonflobrant",
+          "license": "CC0",
+          "generated": false
+        },
+        {
+          "src": "../../refs/velen-dusk/wikimedia-5cd84bb4.jpg",
+          "caption": "Тонкие обломанные стволы в сером небе создают тревожный ритм",
+          "source": "https://commons.wikimedia.org/wiki/File:Misty_pine_forest.jpg",
+          "credit": "Heri nugroho",
+          "license": "CC BY-SA 4.0",
+          "generated": false
+        }
+      ]
+    },
+    {
+      "id": "blood-frost",
+      "title": "Кровавый иней Нави",
+      "text": "Правило: почти монохромный пепельный мир — цвет имеют только кровь, знаки Нави и огонь. Настроение: высокий контраст перед грозой. Форма: острые вертикали мёртвых елей и монолиты капищ. Цвет: уголь, пепел, ледяное серебро; акцент — багровый рубин.",
+      "palette": [
+        "#101214",
+        "#2c3035",
+        "#6e757c",
+        "#c8cfd4",
+        "#b81d2a"
+      ],
+      "tags": [
+        "3D",
+        "смелый",
+        "монохром",
+        "контраст"
+      ],
+      "pros": [
+        "мгновенная читаемость в бою",
+        "дешёвый LUT+Fresnel даёт кинокадр"
+      ],
+      "cons": [
+        "слабые полутона могут сливаться в темноте"
+      ],
+      "media": [
+        {
+          "src": "../../refs/blood-frost/steam-840776fe.jpg",
+          "caption": "Резкий магический шлейф контрастирует с тёмным деревом арены",
+          "source": "https://store.steampowered.com/app/1343240/",
+          "credit": "OverBorder Studio",
+          "license": "© OverBorder Studio — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/blood-frost/steam-97613eda.jpg",
+          "caption": "Монолитный камень и ядовито-алый всполох атаки врага в тени",
+          "source": "https://store.steampowered.com/app/1343240/",
+          "credit": "OverBorder Studio",
+          "license": "© OverBorder Studio — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/blood-frost/steam-cfe0369b.jpg",
+          "caption": "Собранный свет в центре двора и чёткое чтение дистанции до врага",
+          "source": "https://store.steampowered.com/app/1343240/",
+          "credit": "OverBorder Studio",
+          "license": "© OverBorder Studio — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/blood-frost/steam-dfb22417.jpg",
+          "caption": "Ступенчатая композиция святилища в монохроме без цветового шума",
+          "source": "https://store.steampowered.com/app/1370050/",
+          "credit": "Leonard Menchiari, Flying Wild Hog",
+          "license": "© Leonard Menchiari, Flying Wild Hog — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/blood-frost/steam-505fc67b.jpg",
+          "caption": "Жёсткий чёрно-белый контраст силуэтов на фоне дыма и пожара",
+          "source": "https://store.steampowered.com/app/1370050/",
+          "credit": "Leonard Menchiari, Flying Wild Hog",
+          "license": "© Leonard Menchiari, Flying Wild Hog — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/blood-frost/steam-ea953ed6.jpg",
+          "caption": "Панорама деревни и дыма с чётким разделением планов по тону",
+          "source": "https://store.steampowered.com/app/1370050/",
+          "credit": "Leonard Menchiari, Flying Wild Hog",
+          "license": "© Leonard Menchiari, Flying Wild Hog — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/blood-frost/wikimedia-a0943beb.jpg",
+          "caption": "Одинокая сухая ель в белёсом тумане — ориентир пустоты Нави",
+          "source": "https://commons.wikimedia.org/wiki/File:Lodgepole_pine_silhouetted_in_morning_fog_at_Pebble_Creek_(302ba736-cec2-4a2b-9c7b-4fb3c71ec561).jpg",
+          "credit": "NPS/Jim Peaco",
+          "license": "Public domain",
+          "generated": false
+        }
+      ]
+    },
+    {
+      "id": "carved-woodcut",
+      "title": "Вырезано по чернёному дереву",
+      "text": "Правило: резной славянский гравюрный реализм — каждая форма читается жёстким контуром и фактурой дерева/камня в косом лунном свете. Настроение: тревожная сказка и древняя былина. Форма: рубленые идолы, руны, тяжёлые меха. Цвет: деготь, кость, мох; акцент — холодное золото.",
+      "palette": [
+        "#141210",
+        "#2b2a26",
+        "#465442",
+        "#b8b09c",
+        "#e0b04b"
+      ],
+      "tags": [
+        "3D",
+        "стиль из гравюры",
+        "славянские идолы"
+      ],
+      "pros": [
+        "уникальный славянский почерк",
+        "процедурные карты резьбы очень лёгкие"
+      ],
+      "cons": [
+        "сложнее добиться мягкого фотореализма"
+      ],
+      "media": [
+        {
+          "src": "../../refs/carved-woodcut/steam-89cfe1fb.jpg",
+          "caption": "Ритуальный круг со свечами и силуэты елей на фоне холодной луны",
+          "source": "https://store.steampowered.com/app/1138660/",
+          "credit": "Morteshka",
+          "license": "© Morteshka — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/carved-woodcut/steam-aeb1037a.jpg",
+          "caption": "Славянский хоровод у костра: тёплое ядро света против синих сумерек",
+          "source": "https://store.steampowered.com/app/1138660/",
+          "credit": "Morteshka",
+          "license": "© Morteshka — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/carved-woodcut/steam-31d6da71.jpg",
+          "caption": "Угловатая гравюрная геометрия и пламя среди свечей в темноте",
+          "source": "https://store.steampowered.com/app/1138660/",
+          "credit": "Morteshka",
+          "license": "© Morteshka — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/carved-woodcut/steam-69c4eb6a.jpg",
+          "caption": "Отражения в тихой воде и фигура нечисти в прибрежном камыше",
+          "source": "https://store.steampowered.com/app/1623940/",
+          "credit": "Dimfrost Studio",
+          "license": "© Dimfrost Studio — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/carved-woodcut/steam-251b1d61.jpg",
+          "caption": "Гать над топью, светящиеся глаза в осоке — саспенс без лишнего света",
+          "source": "https://store.steampowered.com/app/1623940/",
+          "credit": "Dimfrost Studio",
+          "license": "© Dimfrost Studio — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/carved-woodcut/steam-e067e775.jpg",
+          "caption": "Холодный лунный свет на мшистой рубленой кладке руин",
+          "source": "https://store.steampowered.com/app/1623940/",
+          "credit": "Dimfrost Studio",
+          "license": "© Dimfrost Studio — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/carved-woodcut/wikimedia-44809b79.jpg",
+          "caption": "Збручский идол: резьба и четырёхгранный силуэт славянского капища",
+          "source": "https://commons.wikimedia.org/wiki/File:O98_Idol_von_Sbrutsch_mit_Darstellung_von_Unterwelt,_Erde_und_des_Himmels,_zirka_10._Jh._n._Chr..JPG",
+          "credit": "Silar",
+          "license": "CC BY-SA 3.0",
+          "generated": false
+        }
+      ]
+    },
+    {
+      "id": "storm-amber",
+      "title": "Янтарная гроза над топью",
+      "text": "Правило: драматичный объёмный свет пробивается сквозь грозовые тучи и туман, подсвечивая влажную листву и сталь. Настроение: предгрозовое напряжение и кинематографичная глубина. Форма: многослойные кроны, мшистые руины, развивающийся плащ. Цвет: грозовой индиго, сланец, хвоя; акцент — расплавленная медь.",
+      "palette": [
+        "#161d2b",
+        "#2d3948",
+        "#4c5b52",
+        "#8c9aa4",
+        "#e58b2e"
+      ],
+      "tags": [
+        "3D",
+        "кинематографичный свет",
+        "гроза"
+      ],
+      "pros": [
+        "максимальный кинематографичный объём и глубина сцены"
+      ],
+      "cons": [
+        "высокая нагрузка от объёмного света и листвы в браузере"
+      ],
+      "media": [
+        {
+          "src": "../../refs/storm-amber/steam-1030f015.jpg",
+          "caption": "Снопы объёмного света сквозь своды и густой воздух",
+          "source": "https://store.steampowered.com/app/1182900/",
+          "credit": "Asobo Studio",
+          "license": "© Asobo Studio — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/storm-amber/steam-a8f4b6a3.jpg",
+          "caption": "Ночной штурм в дождь: редкие факелы прорезают грозовую синеву",
+          "source": "https://store.steampowered.com/app/1182900/",
+          "credit": "Asobo Studio",
+          "license": "© Asobo Studio — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/storm-amber/steam-7802127c.jpg",
+          "caption": "Спектральная бирюзовая мгла и ветвистый силуэт лесной твари",
+          "source": "https://store.steampowered.com/app/1493640/",
+          "credit": "DON'T NOD",
+          "license": "© DON'T NOD — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/storm-amber/steam-c9e6f5f4.jpg",
+          "caption": "Средне-дальняя камера в бою с огненно-рунным големом в чаще",
+          "source": "https://store.steampowered.com/app/1493640/",
+          "credit": "DON'T NOD",
+          "license": "© DON'T NOD — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/storm-amber/steam-6bd9dcec.jpg",
+          "caption": "Камерная сцена при свечах: тёплый блеск кожи и сукна в тени",
+          "source": "https://store.steampowered.com/app/1493640/",
+          "credit": "DON'T NOD",
+          "license": "© DON'T NOD — moodboard only",
+          "generated": false
+        },
+        {
+          "src": "../../refs/storm-amber/wikimedia-9528f344.jpg",
+          "caption": "Предгрозовой закат сквозь чёрные кроны — эталон янтаря и бури",
+          "source": "https://commons.wikimedia.org/wiki/File:Stormy_Sunset_in_Seven_Springs_1.jpg",
+          "credit": "Sosanna",
+          "license": "CC BY-SA 4.0",
+          "generated": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "title": "Янтарная гроза над топью",
+  "text": "Правило: драматичный объёмный свет пробивается сквозь грозовые тучи и туман, подсвечивая влажную листву и сталь. Настроение: предгрозовое напряжение и кинематографичная глубина. Форма: многослойные кроны, мшистые руины, развивающийся плащ. Цвет: грозовой индиго, сланец, хвоя; акцент — расплавленная медь.",
+  "palette": [
+    "#161d2b",
+    "#2d3948",
+    "#4c5b52",
+    "#8c9aa4",
+    "#e58b2e"
+  ],
+  "tags": [
+    "3D",
+    "кинематографичный свет",
+    "гроза"
+  ],
+  "items": [
+    {
+      "file": "steam-1030f015.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/ss_a8ce48e34efa5b0bbb4fbe6efa601ed7a33f6c23.1920x1080.jpg?t=1784712272",
+      "page": "https://store.steampowered.com/app/1182900/",
+      "title": "A Plague Tale: Requiem — screenshot 3",
+      "credit": "Asobo Studio",
+      "license": "© Asobo Studio — moodboard only",
+      "api": "steam",
+      "query": "A Plague Tale: Requiem",
+      "generated": false,
+      "note": "Снопы объёмного света сквозь своды и густой воздух",
+      "w": 1920,
+      "h": 1080,
+      "sha1": "1030f015f1e6a8f10db919589372e6f865cfad37"
+    },
+    {
+      "file": "steam-a8f4b6a3.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/ss_3a36ec0873d4c9be584c99a2a62a41e712bb5e6a.1920x1080.jpg?t=1784712272",
+      "page": "https://store.steampowered.com/app/1182900/",
+      "title": "A Plague Tale: Requiem — screenshot 4",
+      "credit": "Asobo Studio",
+      "license": "© Asobo Studio — moodboard only",
+      "api": "steam",
+      "query": "A Plague Tale: Requiem",
+      "generated": false,
+      "note": "Ночной штурм в дождь: редкие факелы прорезают грозовую синеву",
+      "w": 1920,
+      "h": 1080,
+      "sha1": "a8f4b6a32c57fc9879bf3641c589312efd625dcc"
+    },
+    {
+      "file": "steam-7802127c.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1493640/ss_cf7aff3c7f9eb5f5d3e811b4bb04e3eba6773ded.1920x1080.jpg?t=1763044792",
+      "page": "https://store.steampowered.com/app/1493640/",
+      "title": "Banishers: Ghosts of New Eden — screenshot 1",
+      "credit": "DON'T NOD",
+      "license": "© DON'T NOD — moodboard only",
+      "api": "steam",
+      "query": "Banishers: Ghosts of New Eden",
+      "generated": false,
+      "note": "Спектральная бирюзовая мгла и ветвистый силуэт лесной твари",
+      "w": 1920,
+      "h": 1080,
+      "sha1": "7802127c6b59bcde131492bab011a08fefd742cf"
+    },
+    {
+      "file": "steam-c9e6f5f4.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1493640/ss_daceff6544b8c053e6336e11f2febfde61ca4cfe.1920x1080.jpg?t=1763044792",
+      "page": "https://store.steampowered.com/app/1493640/",
+      "title": "Banishers: Ghosts of New Eden — screenshot 2",
+      "credit": "DON'T NOD",
+      "license": "© DON'T NOD — moodboard only",
+      "api": "steam",
+      "query": "Banishers: Ghosts of New Eden",
+      "generated": false,
+      "note": "Средне-дальняя камера в бою с огненно-рунным големом в чаще",
+      "w": 1920,
+      "h": 1080,
+      "sha1": "c9e6f5f4e10c7b1d37917eef04b518b90e843677"
+    },
+    {
+      "file": "steam-6bd9dcec.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1493640/ss_c309ec41b66ba62ab7c7c54a257f58f7a5d2a4ee.1920x1080.jpg?t=1763044792",
+      "page": "https://store.steampowered.com/app/1493640/",
+      "title": "Banishers: Ghosts of New Eden — screenshot 3",
+      "credit": "DON'T NOD",
+      "license": "© DON'T NOD — moodboard only",
+      "api": "steam",
+      "query": "Banishers: Ghosts of New Eden",
+      "generated": false,
+      "note": "Камерная сцена при свечах: тёплый блеск кожи и сукна в тени",
+      "w": 1920,
+      "h": 1080,
+      "sha1": "6bd9dcecd1c6373edd17c9477e0012dc21f24a20"
+    },
+    {
+      "file": "wikimedia-9528f344.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Stormy_Sunset_in_Seven_Springs_1.jpg/1280px-Stormy_Sunset_in_Seven_Springs_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Stormy_Sunset_in_Seven_Springs_1.jpg",
+      "title": "Stormy Sunset in Seven Springs 1",
+      "credit": "Sosanna",
+      "license": "CC BY-SA 4.0",
+      "api": "wikimedia",
+      "query": "stormy forest sunlight",
+      "generated": false,
+      "note": "Предгрозовой закат сквозь чёрные кроны — эталон янтаря и бури",
+      "w": 1280,
+      "h": 720,
+      "sha1": "9528f344c5331bb2a13a362ae4a54272a034961a"
+    }
+  ],
+  "pros": [
+    "максимальный кинематографичный объём и глубина сцены"
+  ],
+  "cons": [
+    "высокая нагрузка от объёмного света и листвы в браузере"
+  ],
+  "dropped": [
+    {
+      "file": "steam-4412d02a.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/ss_9cbcd6b81cc32ecf75b36f40b92157da78a19598.1920x1080.jpg?t=1784712272",
+      "sha1": "4412d02a6c068d166fe6a6a5b821d38ad644f6a7"
+    },
+    {
+      "file": "steam-36d6d5fa.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/ss_1429300fd4c86bac7a5abfd31c3e14a4115bf641.1920x1080.jpg?t=1784712272",
+      "sha1": "36d6d5fa66d4c3cd671fe4b8151495bfba63f689"
+    }
+  ]
+}

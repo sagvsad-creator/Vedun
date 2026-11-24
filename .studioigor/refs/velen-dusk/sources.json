@@ -1,0 +1,143 @@
+{
+  "title": "Сырой сумрак Велена",
+  "text": "Правило: приземлённый реализм грязи, сосен и гнилого дерева; светятся только костры, знаки и глаза тварей. Настроение: холодная осенняя мгла против тёплого янтаря огня. Форма: кривые избы, тыны, узловатые дубы. Цвет: свинцово-зелёный, торф, сталь; акцент — янтарь.",
+  "palette": [
+    "#1b2421",
+    "#3a4a3f",
+    "#5b4a3a",
+    "#8a8f85",
+    "#d97b29"
+  ],
+  "tags": [
+    "3D",
+    "реализм",
+    "туман",
+    "близко к референсу"
+  ],
+  "items": [
+    {
+      "file": "steam-b3dd8d11.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/f7f564ecedd09b3e503b071a637aeefdedbeedd8/ss_f7f564ecedd09b3e503b071a637aeefdedbeedd8.1920x1080.jpg?t=1793900434",
+      "page": "https://store.steampowered.com/app/292030/",
+      "title": "The Witcher 3: Wild Hunt — Remastered — screenshot 1",
+      "credit": "CD PROJEKT RED",
+      "license": "© CD PROJEKT RED — moodboard only",
+      "api": "steam",
+      "query": "The Witcher 3: Wild Hunt — Remastered",
+      "generated": false,
+      "note": "Широкий обзор природы и читаемый силуэт двух клинков за спиной",
+      "w": 1920,
+      "h": 1080,
+      "sha1": "b3dd8d11935c5aa27b5daaca43ce5f0bbdc3e6e7"
+    },
+    {
+      "file": "steam-48f9baef.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/0a38e4d0d57f15934772dbe09b322d08132d5518/ss_0a38e4d0d57f15934772dbe09b322d08132d5518.1920x1080.jpg?t=1793900434",
+      "page": "https://store.steampowered.com/app/292030/",
+      "title": "The Witcher 3: Wild Hunt — Remastered — screenshot 2",
+      "credit": "CD PROJEKT RED",
+      "license": "© CD PROJEKT RED — moodboard only",
+      "api": "steam",
+      "query": "The Witcher 3: Wild Hunt — Remastered",
+      "generated": false,
+      "note": "Холодный сине-болотный туман против оранжевых искр знака и силуэта Лешего",
+      "w": 1920,
+      "h": 1080,
+      "sha1": "48f9baef614dc787330e98291a48c7da19702ae9"
+    },
+    {
+      "file": "steam-0d4c5644.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/3a3f430982cc3bccac1633d3ea60a30bf3d1ae9e/ss_3a3f430982cc3bccac1633d3ea60a30bf3d1ae9e.1920x1080.jpg?t=1793900434",
+      "page": "https://store.steampowered.com/app/292030/",
+      "title": "The Witcher 3: Wild Hunt — Remastered — screenshot 4",
+      "credit": "CD PROJEKT RED",
+      "license": "© CD PROJEKT RED — moodboard only",
+      "api": "steam",
+      "query": "The Witcher 3: Wild Hunt — Remastered",
+      "generated": false,
+      "note": "Фактура кожи, кольчуги, дерева и мягкий боковой свет без глянца",
+      "w": 1920,
+      "h": 1080,
+      "sha1": "0d4c5644b1d81258c557f660adb810de31602bb0"
+    },
+    {
+      "file": "steam-928c896d.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466060/9c00e471d2cb0690a3f2b0959dc64593ef0e1eb8/ss_9c00e471d2cb0690a3f2b0959dc64593ef0e1eb8.1920x1080.jpg?t=1793295003",
+      "page": "https://store.steampowered.com/app/1466060/",
+      "title": "Tainted Grail: The Fall of Avalon — screenshot 1",
+      "credit": "Questline",
+      "license": "© Questline — moodboard only",
+      "api": "steam",
+      "query": "Tainted Grail: The Fall of Avalon",
+      "generated": false,
+      "note": "Массивные рунные мегалиты как ориентир капища в холодной дымке",
+      "w": 1920,
+      "h": 1080,
+      "sha1": "928c896daba962c42adfdfdfb9fd242c17ee709f"
+    },
+    {
+      "file": "steam-380b5d66.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466060/64b45ad0eaf748ff8d4c9bfef51e622638902e37/ss_64b45ad0eaf748ff8d4c9bfef51e622638902e37.1920x1080.jpg?t=1793295003",
+      "page": "https://store.steampowered.com/app/1466060/",
+      "title": "Tainted Grail: The Fall of Avalon — screenshot 2",
+      "credit": "Questline",
+      "license": "© Questline — moodboard only",
+      "api": "steam",
+      "query": "Tainted Grail: The Fall of Avalon",
+      "generated": false,
+      "note": "Силуэт рогатой твари на фоне низкого контрового заката в поле",
+      "w": 1920,
+      "h": 1080,
+      "sha1": "380b5d666c4b4c0fa02c33b6fc345c78ca99facd"
+    },
+    {
+      "file": "wikimedia-96b6f1c9.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Misty_coniferous_forest_on_a_slope_%28Unsplash%29.jpg/1280px-Misty_coniferous_forest_on_a_slope_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Misty_coniferous_forest_on_a_slope_(Unsplash).jpg",
+      "title": "Misty coniferous forest on a slope (Unsplash)",
+      "credit": "Jon Flobrant jonflobrant",
+      "license": "CC0",
+      "api": "wikimedia",
+      "query": "misty pine forest",
+      "generated": false,
+      "note": "Слоистый туман между склонами и хвойным лесом для глубины",
+      "w": 1280,
+      "h": 853,
+      "sha1": "96b6f1c92eccd30850c82cde2857cf0709fb8eca"
+    },
+    {
+      "file": "wikimedia-5cd84bb4.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Misty_pine_forest.jpg/1280px-Misty_pine_forest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Misty_pine_forest.jpg",
+      "title": "Misty pine forest",
+      "credit": "Heri nugroho",
+      "license": "CC BY-SA 4.0",
+      "api": "wikimedia",
+      "query": "misty pine forest",
+      "generated": false,
+      "note": "Тонкие обломанные стволы в сером небе создают тревожный ритм",
+      "w": 1280,
+      "h": 853,
+      "sha1": "5cd84bb4a531b06e4974df44df133956548e3cc7"
+    }
+  ],
+  "pros": [
+    "мгновенно узнаётся как Witcher 3",
+    "туман и селективный bloom отлично работают в Three.js"
+  ],
+  "cons": [
+    "требует высокой детализации текстур грязи и листвы"
+  ],
+  "dropped": [
+    {
+      "file": "steam-3beb52f3.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/19c03c2b997d3a393fc629fd42f55ddb4a3d8dd0/ss_19c03c2b997d3a393fc629fd42f55ddb4a3d8dd0.1920x1080.jpg?t=1793900434",
+      "sha1": "3beb52f3498a0f8fd2cbfb4bc1b9540c664be9fa"
+    },
+    {
+      "file": "steam-520dd505.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466060/b2e345c1faf84b3027e811a51bdb439b5f231863/ss_b2e345c1faf84b3027e811a51bdb439b5f231863.1920x1080.jpg?t=1793295003",
+      "sha1": "520dd505f332d840b8bc2346b78a6d84e9b41f86"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "svarog": {
+    "cost": 28,
+    "cooldown": 2.2,
+    "range": 5.4,
+    "arcCos": 0.42,
+    "damage": 24,
+    "burnDps": 8,
+    "burnDuration": 4.0
+  },
+  "veles": {
+    "cost": 26,
+    "cooldown": 2.6,
+    "radius": 5.2,
+    "damage": 14,
+    "knockback": 10.5,
+    "staggerDuration": 1.35
+  },
+  "makosh": {
+    "cost": 32,
+    "cooldown": 5.5,
+    "duration": 9.0,
+    "shieldHp": 45,
+    "shatterRadius": 4.2,
+    "shatterDamage": 18
+  },
+  "mara": {
+    "cost": 30,
+    "cooldown": 4.2,
+    "radius": 4.2,
+    "duration": 7.5,
+    "slowFactor": 0.42,
+    "tickDamage": 6
+  }
+}

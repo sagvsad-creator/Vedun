@@ -1,0 +1,131 @@
+{
+  "title": "Кровавый иней Нави",
+  "text": "Правило: почти монохромный пепельный мир — цвет имеют только кровь, знаки Нави и огонь. Настроение: высокий контраст перед грозой. Форма: острые вертикали мёртвых елей и монолиты капищ. Цвет: уголь, пепел, ледяное серебро; акцент — багровый рубин.",
+  "palette": [
+    "#101214",
+    "#2c3035",
+    "#6e757c",
+    "#c8cfd4",
+    "#b81d2a"
+  ],
+  "tags": [
+    "3D",
+    "смелый",
+    "монохром",
+    "контраст"
+  ],
+  "items": [
+    {
+      "file": "steam-840776fe.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343240/ss_799361600fa00f88bfd5b4b3e1909869db1b4a96.1920x1080.jpg?t=1778528381",
+      "page": "https://store.steampowered.com/app/1343240/",
+      "title": "Thymesia — screenshot 1",
+      "credit": "OverBorder Studio",
+      "license": "© OverBorder Studio — moodboard only",
+      "api": "steam",
+      "query": "Thymesia",
+      "generated": false,
+      "note": "Резкий магический шлейф контрастирует с тёмным деревом арены",
+      "w": 1920,
+      "h": 1080,
+      "sha1": "840776fe537d1bb39417f07d0fafae95452c67ef"
+    },
+    {
+      "file": "steam-97613eda.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343240/ss_8c5e1789547e5808e586296fd065c6840da173f5.1920x1080.jpg?t=1778528381",
+      "page": "https://store.steampowered.com/app/1343240/",
+      "title": "Thymesia — screenshot 2",
+      "credit": "OverBorder Studio",
+      "license": "© OverBorder Studio — moodboard only",
+      "api": "steam",
+      "query": "Thymesia",
+      "generated": false,
+      "note": "Монолитный камень и ядовито-алый всполох атаки врага в тени",
+      "w": 1920,
+      "h": 1040,
+      "sha1": "97613eda1b036c2c52a4b68226a0123baa77816d"
+    },
+    {
+      "file": "steam-cfe0369b.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343240/ss_9aa5a7e3818567986f657241ae6b0ff05e24fb4d.1920x1080.jpg?t=1778528381",
+      "page": "https://store.steampowered.com/app/1343240/",
+      "title": "Thymesia — screenshot 3",
+      "credit": "OverBorder Studio",
+      "license": "© OverBorder Studio — moodboard only",
+      "api": "steam",
+      "query": "Thymesia",
+      "generated": false,
+      "note": "Собранный свет в центре двора и чёткое чтение дистанции до врага",
+      "w": 1920,
+      "h": 1040,
+      "sha1": "cfe0369bc34eba4f75f356d66c4a3bc227b656b3"
+    },
+    {
+      "file": "steam-dfb22417.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1370050/ss_92e881ce6a9187428221a72b6336b541ef295e8a.1920x1080.jpg?t=1728950386",
+      "page": "https://store.steampowered.com/app/1370050/",
+      "title": "Trek to Yomi — screenshot 1",
+      "credit": "Leonard Menchiari, Flying Wild Hog",
+      "license": "© Leonard Menchiari, Flying Wild Hog — moodboard only",
+      "api": "steam",
+      "query": "Trek to Yomi",
+      "generated": false,
+      "note": "Ступенчатая композиция святилища в монохроме без цветового шума",
+      "w": 1920,
+      "h": 810,
+      "sha1": "dfb224173055ef3d914e438617b80af0429d493a"
+    },
+    {
+      "file": "steam-505fc67b.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1370050/ss_1d5a360df41a82d27e83ca93c920e4c02264b1aa.1920x1080.jpg?t=1728950386",
+      "page": "https://store.steampowered.com/app/1370050/",
+      "title": "Trek to Yomi — screenshot 2",
+      "credit": "Leonard Menchiari, Flying Wild Hog",
+      "license": "© Leonard Menchiari, Flying Wild Hog — moodboard only",
+      "api": "steam",
+      "query": "Trek to Yomi",
+      "generated": false,
+      "note": "Жёсткий чёрно-белый контраст силуэтов на фоне дыма и пожара",
+      "w": 1920,
+      "h": 810,
+      "sha1": "505fc67b6d9e660569c361f0ff64e1fe0c49d449"
+    },
+    {
+      "file": "steam-ea953ed6.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1370050/ss_27d94d2c809f18510348a30627e58ff077a79f45.1920x1080.jpg?t=1728950386",
+      "page": "https://store.steampowered.com/app/1370050/",
+      "title": "Trek to Yomi — screenshot 3",
+      "credit": "Leonard Menchiari, Flying Wild Hog",
+      "license": "© Leonard Menchiari, Flying Wild Hog — moodboard only",
+      "api": "steam",
+      "query": "Trek to Yomi",
+      "generated": false,
+      "note": "Панорама деревни и дыма с чётким разделением планов по тону",
+      "w": 1920,
+      "h": 810,
+      "sha1": "ea953ed6948ad89c21ff28a09448ce6674ec7ec1"
+    },
+    {
+      "file": "wikimedia-a0943beb.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Lodgepole_pine_silhouetted_in_morning_fog_at_Pebble_Creek_%28302ba736-cec2-4a2b-9c7b-4fb3c71ec561%29.jpg/1280px-Lodgepole_pine_silhouetted_in_morning_fog_at_Pebble_Creek_%28302ba736-cec2-4a2b-9c7b-4fb3c71ec561%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Lodgepole_pine_silhouetted_in_morning_fog_at_Pebble_Creek_(302ba736-cec2-4a2b-9c7b-4fb3c71ec561).jpg",
+      "title": "Lodgepole pine silhouetted in morning fog at Pebble Creek",
+      "credit": "NPS/Jim Peaco",
+      "license": "Public domain",
+      "api": "wikimedia",
+      "query": "dead pine trees fog",
+      "generated": false,
+      "note": "Одинокая сухая ель в белёсом тумане — ориентир пустоты Нави",
+      "w": 1280,
+      "h": 1822,
+      "sha1": "a0943bebb823e179adfc7078abe8bc0d46119cc3"
+    }
+  ],
+  "pros": [
+    "мгновенная читаемость в бою",
+    "дешёвый LUT+Fresnel даёт кинокадр"
+  ],
+  "cons": [
+    "слабые полутона могут сливаться в темноте"
+  ]
+}
